@@ -1,5 +1,7 @@
 # Guess My Number Game
 
+**Live Demo:** [https://mindtzijib-mx.github.io/my-guessing-game/](https://mindtzijib-mx.github.io/my-guessing-game/)
+
 This project is a simple number guessing game built with React. The game challenges players to guess a secret number between 1 and 20. Players start with a score of 20, and each incorrect guess decreases the score by 1. The game ends when the player guesses the correct number or the score reaches 0.
 
 ## Features
